@@ -8,7 +8,7 @@ function name($name) {
     return $result;
    
 }
-// name('minh');
+name('minh');
 function nhapDuLieu($data) {
     if($data === name($data)) {
         echo "đúng";
