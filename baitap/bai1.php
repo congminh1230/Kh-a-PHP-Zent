@@ -7,7 +7,7 @@ for($i = 0; $i < count($number); $i++) {
         $max = $number[$i + 1]; 
     }
 }
-echo $max;
+echo $max."<br>";
 // sort($fruits);
 // $result=  end($fruits);
 // echo $result;
@@ -15,24 +15,3 @@ echo $max;
     
 //     print_r($fruits);
 // echo "</pre>";
-// foreach ($fruits as $key => $value) {
-//     echo $value;
-// }
-// for($i=0; $i < count($fruits); $i++) {
-//     echo $i;
-// }
-
-// $fruits = array("lemon", "orange", "banana", "apple");
-// sort($fruits);
-// foreach ($fruits as $key => $val) {
-//     echo "fruits[" . $key . "] = " . $val . "\n";
-// }
-
-
-// }
-// echo $array;
-
-// echo $result;
-// for($i = 0; $i < count($array); $i++) {
-//     echo $i;
-// }
